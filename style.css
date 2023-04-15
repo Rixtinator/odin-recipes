@@ -1,8 +1,19 @@
-h1 {
-  color: red;
-  font-size: 30px;
-}
-
 body {
   font-family: "Courier New", Courier, monospace;
+}
+
+.title {
+  color: darkblue;
+  text-align: center;
+  font-size: 40px;
+}
+
+.recipeslist {
+  text-align: center;
+  list-style-type: none;
+}
+
+.recipeslist li {
+  font-size: 30px;
+  padding-top: 30px;
 }
